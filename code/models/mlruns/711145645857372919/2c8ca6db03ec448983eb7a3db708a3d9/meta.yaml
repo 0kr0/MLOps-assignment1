@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/code/models/mlruns/711145645857372919/2c8ca6db03ec448983eb7a3db708a3d9/artifacts
+end_time: 1758276085793
+entry_point_name: ''
+experiment_id: '711145645857372919'
+lifecycle_stage: active
+run_id: 2c8ca6db03ec448983eb7a3db708a3d9
+run_name: bright-jay-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758275954447
+status: 3
+tags: []
+user_id: krokant

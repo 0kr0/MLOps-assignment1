@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/mlruns/442184351311106268/b4cd8c92e44642029f099307c19a3cb8/artifacts
+end_time: 1758275361117
+entry_point_name: ''
+experiment_id: '442184351311106268'
+lifecycle_stage: active
+run_id: b4cd8c92e44642029f099307c19a3cb8
+run_name: clumsy-turtle-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758275360066
+status: 4
+tags: []
+user_id: krokant

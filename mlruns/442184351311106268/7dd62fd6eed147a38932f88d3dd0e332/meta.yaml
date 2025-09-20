@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/mlruns/442184351311106268/7dd62fd6eed147a38932f88d3dd0e332/artifacts
+end_time: 1758275077553
+entry_point_name: ''
+experiment_id: '442184351311106268'
+lifecycle_stage: active
+run_id: 7dd62fd6eed147a38932f88d3dd0e332
+run_name: indecisive-mink-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758275076449
+status: 4
+tags: []
+user_id: krokant

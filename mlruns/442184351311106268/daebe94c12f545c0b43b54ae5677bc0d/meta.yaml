@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/mlruns/442184351311106268/daebe94c12f545c0b43b54ae5677bc0d/artifacts
+end_time: 1758271644945
+entry_point_name: ''
+experiment_id: '442184351311106268'
+lifecycle_stage: active
+run_id: daebe94c12f545c0b43b54ae5677bc0d
+run_name: upbeat-fox-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758271643754
+status: 4
+tags: []
+user_id: krokant

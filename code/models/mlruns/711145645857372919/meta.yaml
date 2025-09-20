@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/code/models/mlruns/711145645857372919
+creation_time: 1758275523966
+experiment_id: '711145645857372919'
+last_update_time: 1758275523966
+lifecycle_stage: active
+name: wine_quality

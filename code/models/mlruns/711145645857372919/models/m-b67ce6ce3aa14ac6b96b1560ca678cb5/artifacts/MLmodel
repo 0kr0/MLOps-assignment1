@@ -1,0 +1,22 @@
+artifact_path: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/code/models/mlruns/711145645857372919/models/m-b67ce6ce3aa14ac6b96b1560ca678cb5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-b67ce6ce3aa14ac6b96b1560ca678cb5
+model_size_bytes: 6315076
+model_uuid: m-b67ce6ce3aa14ac6b96b1560ca678cb5
+prompts: null
+run_id: 2c8ca6db03ec448983eb7a3db708a3d9
+utc_time_created: '2025-09-19 09:59:18.391312'

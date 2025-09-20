@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/code/models/mlruns/711145645857372919/e92c3f6bbe2b42049c54a09eff1e5c58/artifacts
+end_time: 1758275674817
+entry_point_name: ''
+experiment_id: '711145645857372919'
+lifecycle_stage: active
+run_id: e92c3f6bbe2b42049c54a09eff1e5c58
+run_name: stylish-bee-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758275525781
+status: 3
+tags: []
+user_id: krokant

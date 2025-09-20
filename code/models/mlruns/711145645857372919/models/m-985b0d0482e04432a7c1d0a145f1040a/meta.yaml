@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/Documents/Innopolis/Practical%20Machine%20Learning%20and%20Deep%20Learning/MLOps-assignment1/code/models/mlruns/711145645857372919/models/m-985b0d0482e04432a7c1d0a145f1040a/artifacts
+creation_timestamp: 1758275528430
+experiment_id: '711145645857372919'
+last_updated_timestamp: 1758275674127
+model_id: m-985b0d0482e04432a7c1d0a145f1040a
+model_type: null
+name: model
+source_run_id: e92c3f6bbe2b42049c54a09eff1e5c58
+status: 2
+status_message: null
